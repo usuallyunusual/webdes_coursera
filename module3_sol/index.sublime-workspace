@@ -1,0 +1,668 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"box-sizing\tproperty"
+			],
+			[
+				"num",
+				"numLink"
+			],
+			[
+				"name",
+				"nameLink"
+			],
+			[
+				"crete",
+				"createList"
+			],
+			[
+				"search",
+				"searchNoden"
+			],
+			[
+				"ref",
+				"ref"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"create",
+				"createStack"
+			],
+			[
+				"t",
+				"t\ttest"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"t1",
+				"t1"
+			],
+			[
+				"g",
+				"g"
+			],
+			[
+				"sort",
+				"SortFile"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"write",
+				"writefw"
+			],
+			[
+				"pass",
+				"passportNo"
+			],
+			[
+				"Object",
+				"ObjectInpoutStream"
+			],
+			[
+				"File",
+				"FileInputStream"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"Class",
+				"ClassCastException"
+			],
+			[
+				"air",
+				"airCraftFuel"
+			],
+			[
+				"aircr",
+				"airCraftModel"
+			],
+			[
+				"Obj",
+				"ObjectInputStream"
+			],
+			[
+				"Obje",
+				"ObjectOutputStream"
+			],
+			[
+				"cus",
+				"CustException1"
+			],
+			[
+				"Cust",
+				"CustException"
+			],
+			[
+				"Cu",
+				"CustException"
+			],
+			[
+				"N",
+				"NullPointerException"
+			],
+			[
+				"String",
+				"StringIndexOutOfBoundsException"
+			],
+			[
+				"Fil",
+				"FileWriter"
+			],
+			[
+				"calc",
+				"calcMI"
+			],
+			[
+				"cal",
+				"calcMI"
+			],
+			[
+				"Sa",
+				"SavingAccount"
+			],
+			[
+				"fuel",
+				"fuelSpec"
+			],
+			[
+				"Jet",
+				"Jet-A1"
+			],
+			[
+				"airCr",
+				"airCraftFuel"
+			],
+			[
+				"I",
+				"IObasic"
+			],
+			[
+				"disp",
+				"disp"
+			],
+			[
+				"major",
+				"majorInsp"
+			],
+			[
+				"no",
+				"noSeat"
+			],
+			[
+				"weig",
+				"weightLimit"
+			],
+			[
+				"cm",
+				"company"
+			],
+			[
+				"pilot",
+				"pilotName"
+			],
+			[
+				"aircra",
+				"airCraftModel"
+			],
+			[
+				"majo",
+				"majorInsp"
+			],
+			[
+				"wei",
+				"weightLimit"
+			],
+			[
+				"lease",
+				"leaseName"
+			],
+			[
+				"airf",
+				"airframeSlno"
+			],
+			[
+				"aie",
+				"airCraftModel"
+			],
+			[
+				"leas",
+				"leaseName"
+			],
+			[
+				"Char",
+				"CharteredPlane"
+			],
+			[
+				"fly",
+				"flyingHours"
+			],
+			[
+				"year",
+				"yearOfMan"
+			],
+			[
+				"acc",
+				"Account"
+			],
+			[
+				"int",
+				"intCalc"
+			],
+			[
+				"accno",
+				"accno"
+			],
+			[
+				"di",
+				"dispLoanAccount"
+			],
+			[
+				"amount",
+				"amountSanc"
+			],
+			[
+				"work",
+				"workHour"
+			],
+			[
+				"clear",
+				"clearLevel"
+			],
+			[
+				"de",
+				"department"
+			],
+			[
+				"off",
+				"offDays"
+			],
+			[
+				"wo",
+				"workHour"
+			],
+			[
+				"ph",
+				"phNo"
+			],
+			[
+				"cle",
+				"clearLevel"
+			],
+			[
+				"tot",
+				"totalFlyingHours"
+			],
+			[
+				"fre",
+				"freqFlyer"
+			],
+			[
+				"cust",
+				"custName"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"customer",
+				"Customer"
+			],
+			[
+				"tota",
+				"totalFlyingHours"
+			],
+			[
+				"total",
+				"totalFlyMiles"
+			],
+			[
+				"weekly",
+				"weeklyFlyMile"
+			],
+			[
+				"wee",
+				"weeklyFlyMile"
+			],
+			[
+				"Integer",
+				"Integer"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"bott",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"w",
+				"weightage"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"l",
+				"l"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Education/MSc/Sem 3/Assignments/web/webdes_coursera/module2_sol/css/style.css",
+		"/D/Education/MSc/Sem 3/Assignments/web/webdes_coursera/module2_sol/index.html",
+		"/D/Education/MSc/Sem 3/Assignments/web/webdes_coursera/module2_sol/style.css",
+		"/D/Education/MSc/Sem 3/lab/webdev/prog1/prog1.css",
+		"/D/Education/MSc/Sem 3/lab/webdev/prog1.css",
+		"/D/Education/MSc/Sem 3/lab/webdev/prog1.html",
+		"/C/Users/vigne/OneDrive/Desktop/optional.py",
+		"/D/Education/MSc/Sem 3/Assignments/DAA/DAA_assignment.py",
+		"/D/Education/MSc/Sem 3/Assignments/web/webdes_coursera/site/index.html",
+		"/D/Education/MSc/Sem 3/Assignments/Python/ifelse.py",
+		"/C/Users/vigne/Downloads/test.py",
+		"/C/Users/vigne/Downloads/DAA assignment.py",
+		"/D/NetBeans Projects/HridayaHMS/src/hridayahms/HridayaHMS.java",
+		"/D/Airport/src/sample/Main.java",
+		"/D/MSc/Sem 2/Fest/hauntedlabsupermario.c",
+		"/D/MSc/Sem 2/Fest/Haunted labs round 2/floors.c",
+		"/D/MSc/Sem 2/Fest/game.cpp",
+		"/D/MSc/Sem 2/Fest/Haunted labs round 2/hauntedlabsupermario.c",
+		"/D/MSc/Sem 2/Fest/Haunted labs round 2/hauntedlabroadrash.c",
+		"/D/MSc/Sem 2/Fest/bs.cpp",
+		"/D/MSc/Sem 2/Fest/Haunted labs round 2/hauntedlabpacman.c",
+		"/D/MSc/Sem 2/Fest/Haunted labs round 2/hauntedlabcontra.c",
+		"/D/MSc/Sem 2/lab/DS/postfixeval.c",
+		"/D/MSc/Sem 2/lab/DS/infixtopost.c",
+		"/C/Users/vigne/Downloads/PasswordHashing/PasswordHashing/src/com/howtodoinjava/hashing/password/demo/bcrypt/BcryptHashingExample.java",
+		"/D/MSc/Sem 2/Fest/test.c",
+		"/D/MSc/Sem 2/Fest/hauntedlabroadrash.c",
+		"/D/MSc/Sem 2/Fest/hauntedlabpacman.c",
+		"/D/MSc/Sem 2/lab/DS/hauntedques.c",
+		"/C/Users/vigne/Desktop/test.java",
+		"/D/MSc/Sem 2/lab/DS/complexitydll.c",
+		"/D/MSc/Sem 2/lab/DS/linkedlist.c",
+		"/D/MSc/Sem 2/lab/DS/linkedstack.c",
+		"/D/MSc/Sem 2/lab/DS/linkedQueue.c",
+		"/D/MSc/Sem 2/lab/DS/doublylinkedlist.c",
+		"/D/MSc/Sem 2/CIA/Data Structures/DSCIA1.c",
+		"/D/MSc/Sem 2/lab/DS/queue.c",
+		"/D/MSc/Sem 2/lab/DS/circqueue.c",
+		"/D/MSc/Sem 2/lab/DS/stackarr.c",
+		"/D/MSc/Sem 2/lab/DS/Searches.c",
+		"/D/MSc/Sem 2/lab/DS/selectionsort.c",
+		"/D/MSc/Sem 2/lab/DS/insertionsort.c",
+		"/D/index.html",
+		"/D/MSc/Sem 2/CIA/Data Structures/Searches.c",
+		"/D/MSc/Sem 2/CIA/Data Structures/selectionsort.c",
+		"/D/MSc/Sem 2/CIA/Data Structures/insertionsort.c",
+		"/D/MSc/Sem 2/CIA/Data Structures/stackarr.c",
+		"/C/Users/vigne/Desktop/test.c",
+		"/C/Users/vigne/Documents/MSC/Sem 2/CIA/Data Structures/Searches.c",
+		"/C/Users/vigne/Documents/MSC/Sem 2/CIA/Data Structures/DSCIA1.c",
+		"/C/Users/vigne/Documents/MSC/Sem 2/CIA/DSCIA1.c",
+		"/D/Java/jdk1.8.0_144/bin/datetime.java",
+		"/D/MSc/Java/Class Programs/MyServer.java",
+		"/D/MSc/Java/Class Programs/MyClient.java",
+		"/D/MSc/Java/Lab Program/thr.java",
+		"/D/MSc/Java/Lab Program/rdwr.java",
+		"/D/Java/eclipse-workspace/BackGround.java",
+		"/D/MSc/Java/Lab Program/packc.java",
+		"/D/MSc/Java/Lab Program/AirportIO.java",
+		"/D/MSc/Java/Lab Program/Fileio.java",
+		"/D/MSc/Java/Lab Program/objectio.java",
+		"/D/Java/jdk1.8.0_144/bin/Menum.java",
+		"/C/Users/vigne/Downloads/Universityten.java",
+		"/D/MSc/Java/Lab Program/Fileio/Customer.txt",
+		"/C/Users/vigne/Downloads/Gui.java",
+		"/D/Java/jdk1.8.0_144/bin/DrawApplet.java",
+		"/D/Java/jdk1.8.0_144/bin/appl.html",
+		"/D/MSc/Java/Class Programs/appl.html",
+		"/D/MSc/Java/Class Programs/DrawApplet.java",
+		"/D/MSc/Java/Lab Program/Exhandling.java",
+		"/C/Users/vigne/Downloads/DrawApplet.java",
+		"/C/Users/vigne/Downloads/ReadWriteTest.java",
+		"/C/Users/vigne/Downloads/Universityel.java",
+		"/D/MSc/Java/Lab Program/packb.java",
+		"/D/MSc/Java/Lab Program/packa.java",
+		"/D/MSc/Java/Lab Program/AirportIO1.java",
+		"/D/MSc/Java/Lab Program/Adfunct1.java",
+		"/D/MSc/Java/Lab Program/Adfunct.java",
+		"/D/MSc/Java/Lab Program/abstractimp.java",
+		"/D/MSc/Java/Lab Program/thiskey.java",
+		"/D/MSc/Java/Lab Program/this",
+		"/D/MSc/Java/Lab Program/test123.java",
+		"/D/MSc/Java/Class Programs/threads.java",
+		"/D/MSc/Java/Class Programs/Account.txt",
+		"/C/Users/vigne/Downloads/Pro10_Fileobject.java",
+		"/D/MSc/Java/Lab Program/Iopro.java",
+		"/D/MSc/Java/Class Programs/Overload.java",
+		"/D/MSc/Java/Lab Program/Datatype.java",
+		"/D/MSc/Java/Class Programs/serial.java",
+		"/D/MSc/Java/Lab Program/Fileio/Customer1.txt",
+		"/C/Users/vigne/Downloads/Fileio.java",
+		"/C/Users/vigne/Desktop/mso.bat",
+		"/D/MSc/Java/Class Programs/something.java",
+		"/D/MSc/Java/Lab Program/serial.java",
+		"/D/MSc/Java/Lab Program/CommandLine.java",
+		"/D/MSc/Java/Lab Program/Overload.java",
+		"/D/MSc/Java/Lab Program/abstract.java",
+		"/D/MSc/Java/Class Programs/Interface.java",
+		"/D/MSc/Java/Lab Program/Inheritance.java",
+		"/D/MSc/Java/Class Programs/hello.txt",
+		"/D/MSc/Java/Class Programs/hello1.txt",
+		"/C/Users/vigne/AppData/Local/Temp/Temp1_src.zip/java.rmi/java/rmi/MarshalException.java",
+		"/D/MSc/Java/Lab Program/samepack.java",
+		"/D/MSc/Java/Class Programs/Withdraw.java",
+		"/D/MSc/Java/Class Programs/Deposit.java",
+		"/C/Users/vigne/Downloads/CIA1.sh",
+		"/D/MSc/Java/Class Programs/Raed.java",
+		"/D/MSc/Java/Lab Program/test1.java",
+		"/D/MSc/Java/Lab Program/Static.java",
+		"/D/MSc/Java/Class Programs/Override.java",
+		"/D/MSc/Java/Class Programs/Inheritance.java",
+		"/D/MSc/Java/Class Programs/Emp.java",
+		"/D/MSc/Java/Class Programs/Welcome.java",
+		"/D/MSc/Java/Class Programs/Datatype.java",
+		"/D/MSc/Java/Class Programs/CommandLine.java",
+		"/D/MSc/Java/Class Programs/Main.java",
+		"/D/Java/jdk-10.0.2/bin/Datatype.java",
+		"/D/Java/jdk-10.0.2/bin/addition.java",
+		"/D/xampp/htdocs/Mini Project-Final/NavButtons/Login/log.php",
+		"/D/xampp/htdocs/Mini Project-Final/NavButtons/Login/Signup/artistsu/artistsign.php",
+		"/D/xampp/htdocs/Mini Project-Final/NavButtons/Login/Signup/shopsu/shopsu.html",
+		"/D/xampp/htdocs/Mini Project-Final/NavButtons/Login/Signup/shopsu/shopsign.php",
+		"/D/xampp/htdocs/Mini Project-Final/NavButtons/Login/Login.html",
+		"/D/xampp/htdocs/Mini Project-Final/pages/Artists/painters/vincent.html",
+		"/D/xampp/htdocs/Mini Project-Final/pages/Artists/painters/picasso.html",
+		"/D/xampp/htdocs/Mini Project-Final/pages/Artists/painters/davinci.html",
+		"/D/xampp/htdocs/Mini Project-Final/pages/Artists/painters/dali.html",
+		"/D/xampp/htdocs/Mini Project-Final/NavButtons/Home.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 50.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
